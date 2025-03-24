@@ -13,13 +13,5 @@ index.js is the entry point for the React application. It renders the App compon
 App.js is the main component of the application. It imports and renders the WeatherApp component.
 The WeatherApp component contains the main logic for fetching and displaying weather information.
 Styling is provided by index.css for global styles and App.css for component-specific styles.
-Running the Application
-To run this application:
 
-Ensure you have Node.js and npm (Node Package Manager) installed on your system.
-Navigate to the project directory in your terminal.
-Run npm install to install all the necessary dependencies.
-Use npm start to run the application in development mode.
-Open http://localhost:3000 in your browser to view the app.
-Testing
-The project includes a basic test file (App.test.js) for the App component. You can run tests using the npm test command.
+
